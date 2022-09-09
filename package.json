@@ -1,0 +1,25 @@
+{
+  "name": "ajs-typescript-movie",
+  "version": "1.0.0",
+  "description": "JavaScript typescript classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Malins062/ajs-typescript-movie.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Alexei Malinovskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Malins062/ajs-typescript-movie/issues"
+  },
+  "homepage": "https://github.com/Malins062/ajs-typescript-movie#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
